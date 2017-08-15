@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="5697442050681"
+    token="-7968881763401271562" >
+
+    <task
+        name="javac"
+        duration="2229" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="114" />
+    <task
+        name="verifier"
+        duration="130" />
+
+    <artifact
+        location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+
+    <build timestamp="4825479806893" >
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="5177846501025" >
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_92b42570417119909ba703850a34c6d97c05110c\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_de8979bec56315740c6e7f7407ebe91984ec00b4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0c316b327001c2ef938825226be4d94521f895a1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_55499ff2b5d73df9c8a65732df9b6f632f91e798\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_d9aee61ebab65c93134d5aeae65db4a7da30f08b\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_65eab6aa080c1d1a0e5a9eb66f3665073c60f01e\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_278752fe2abc62dbbec926ab776b5b8bbb69c73a\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_59dc0537f6d6bdc1c18cb019d08bcb2c5fcc1c05\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_d1180b905351fa5ef6d2dc9478b5b7daf85267c1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_e795c0999432e965fc07b8f72071b86a5863b12b\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_cc2b15785ba99f539fb183492379e1d967696c7e\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_6f76e674a21d8c4dc6ba8bafd12d73f7095c3319\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.altbeacon-android-beacon-library-2.6_51b9f76164f419eb1dfb993dc46098abe53905ec\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4033dddabba8132862a3d52cf86d5873fad0269c\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_c7a2f2e9b784ce46f6db1ea0bfe54ccf662a078e\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_e1aa8dcb1f291dc67b07b9f6598c44ed284e95b4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_05c5258bfe4943034d974aa5f22921446a296087\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_9339656e2d203e4b247c28da1a3a9fc3a91f4fec\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ef07eb36498c99003c61ba4cf37348e95d0c13f2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_ce251620c3029bbd7839b211b9ad93dcb96e0a9e\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="5697442050681" >
+        <artifact
+            location="C:\Users\mae.docena\Documents\nearby-patients\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

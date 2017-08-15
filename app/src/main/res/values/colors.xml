@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="dividerColor">#1E000000</color>
+
+    <color name="editTextValue">#FFFFFFFF</color>
+    <color name="editTextSelectedHint">#BFFFFFFF</color>
+    <color name="editTextHint">#7FFFFFFF</color>
+    <color name="editTextUnderline">#3FFFFFFF</color>
+    <color name="editTextHighlight">#7FFFFFFF</color>
+
+    <color name="errorMessage">#CC0000</color>
+</resources>
